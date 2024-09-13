@@ -1,1 +1,1 @@
-generic reamde
+generic readme
